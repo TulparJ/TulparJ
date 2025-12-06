@@ -1,16 +1,16 @@
 # Hi, I'm Tulpar 👋  
-**CS Student @ Rider University | Java & Python Developer | Networking & Cybersecurity Enthusiast**
+**CS Student @ Rider University (Sophomore) | Java & Python Developer | Networking & Cybersecurity Enthusiast**
 
-I’m a first-year computer science student focused on becoming a strong software engineer.  
-Right now, I'm building clean, structured projects in **Java** and **Python**, exploring **data structures**,  
-networking, cybersecurity basics, and writing practical mini-apps to sharpen my logic.
+I'm a sophomore computer science student focused on becoming a strong software engineer.  
+I’m actively building clean, structured projects in **Java** and **Python**, studying **data structures**,  
+networking, cybersecurity, and creating practical mini-apps to level up my skills every day.
 
 ---
 
 ## 🚀 Tech Stack
 **Languages:** Java, Python, HTML/CSS  
 **Core Skills:** OOP, Algorithms, Data Structures, CLI Tools  
-**Learning:** Networking, Cybersecurity, Git/GitHub, Software Design
+**Learning:** Networking, Cybersecurity, Git/GitHub, Software Architecture
 
 ---
 
@@ -29,8 +29,8 @@ A full collection of Java practice projects, including:
 ---
 
 ### 🔹 **Python Practice Hub**
-Small but useful Python utilities:
-- Random name generator  
+A growing set of Python utilities and fun scripts:
+- Random Mongolian name generator  
 - Currency converter  
 - Dice simulator  
 - Weather report  
@@ -42,7 +42,7 @@ Small but useful Python utilities:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 ![Tulpar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TulparJ&show_icons=true&theme=tokyonight)
 
 ---
@@ -52,4 +52,4 @@ Small but useful Python utilities:
 📧 **tulparjanbolat.1@gmail.com**
 
 Always learning. Always building.  
-Thanks for checking out my profile! 🚀
+Thanks for stopping by! 🚀
